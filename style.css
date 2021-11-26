@@ -22,7 +22,8 @@
 
 @media (max-width:768px) {
 
-  .header { text-align: center;
+  .header { 
+    text-align: center;
   }
 
 }
@@ -48,11 +49,13 @@
   padding: 0px;
 }
 
-.task-item, .task-title {
+.task-item,
+.task-title {
   list-style: none;
 }
 
-.checkbox, .btn {
+.checkbox,
+.btn {
   outline: none;
 }
 
@@ -134,7 +137,7 @@
   width: 226px;
 }
 
-.task-item >  .input-task {
+.task-item > .input-task {
   width: 226px;
 }
 
